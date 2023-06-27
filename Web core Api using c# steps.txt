@@ -4,4 +4,12 @@ step1:  install entityframeworkcore
 	install entityframeworkcore.design
 	install JWT bearer
 step2:	create model folder
-			->DTO(nesscacry
+			->DTO(nesscacry fileds to take)
+	create Dbcontext folder(for userauth)
+	give connection string in appsettings.json and give dbcontext in program.cs
+step3:	create database name and migration
+step4:	create userservice
+			-> for that we create interface ,create IBaserepo and ITokenGenerate
+step5:	create controller (api empty)
+step6:	create CORS policy
+step7:	create Angular app
