@@ -1,6 +1,10 @@
-﻿namespace ApiAuthAngular.Repository.Interface
+﻿using ApiAuthAngular.Models.DTO;
+
+namespace ApiAuthAngular.Repository.Interface
 {
-    public class ITokengenerate
+    public interface ITokengenerate
     {
+        public string GenerateToken(UserDTO user);
+
     }
 }
