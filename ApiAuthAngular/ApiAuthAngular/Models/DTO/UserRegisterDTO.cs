@@ -1,4 +1,4 @@
-﻿using ApiAuthAngular.Models;
+﻿using APiAuthAngular.Models;
 
 namespace ApiAuthAngular.Models.DTO
 {
