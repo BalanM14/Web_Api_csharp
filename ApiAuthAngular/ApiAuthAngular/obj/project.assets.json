@@ -3914,11 +3914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bala\\kanini\\webapic#\\ApiAuthAngular\\ApiAuthAngular\\ApiAuthAngular.csproj",
+      "projectUniqueName": "D:\\bala\\kanini\\webapic#\\Web_Api_csharp\\ApiAuthAngular\\ApiAuthAngular\\ApiAuthAngular.csproj",
       "projectName": "ApiAuthAngular",
-      "projectPath": "D:\\bala\\kanini\\webapic#\\ApiAuthAngular\\ApiAuthAngular\\ApiAuthAngular.csproj",
+      "projectPath": "D:\\bala\\kanini\\webapic#\\Web_Api_csharp\\ApiAuthAngular\\ApiAuthAngular\\ApiAuthAngular.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\bala\\kanini\\webapic#\\ApiAuthAngular\\ApiAuthAngular\\obj\\",
+      "outputPath": "D:\\bala\\kanini\\webapic#\\Web_Api_csharp\\ApiAuthAngular\\ApiAuthAngular\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
