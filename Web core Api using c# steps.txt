@@ -1,0 +1,7 @@
+In web core api
+step1:  install entityframeworkcore
+	install entityframeworkcore .sql
+	install entityframeworkcore.design
+	install JWT bearer
+step2:	create model folder
+			->DTO(nesscacry
